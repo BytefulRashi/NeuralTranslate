@@ -52,7 +52,7 @@ This repository contains code for training and evaluating a Neural Machine Trans
 
 ## Results
 
-- After training, the model achieves a BLEU score of [insert your score here] on the test set.
+- After training, the model achieves a BLEU score of 18.98 on the test set.
 
 ## Future Improvements
 
